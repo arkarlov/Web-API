@@ -1,0 +1,11 @@
+#speech-container > * {
+  cursor: pointer;
+}
+
+#speech-container > *:hover {
+  outline: 2px dashed blueviolet;
+}
+
+#speech-container > .focused {
+  outline: 2px solid rgb(101, 226, 43);
+}
