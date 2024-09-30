@@ -2,4 +2,4 @@
 
 Explore Web API
 
-- [Web Speech API](https://artemkarlov.github.io/Web-API/)
+- [Web Speech API](https://arkarlov.github.io/Web-API/)
